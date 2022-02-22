@@ -1,2 +1,2 @@
 # data_structures_algorithms_python
-Files for implementing data structures and algorithms in python 
+Implementing data structures and algorithm (soon) in python
